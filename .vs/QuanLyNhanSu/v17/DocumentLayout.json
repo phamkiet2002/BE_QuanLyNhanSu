@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC3FC39-9BFC-4FF0-A5CB-E60E161531F5}|src\\QuanLyNhanSu.Presentation\\QuanLyNhanSu.Presentation.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.presentation\\controllers\\v1\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC3FC39-9BFC-4FF0-A5CB-E60E161531F5}|src\\QuanLyNhanSu.Presentation\\QuanLyNhanSu.Presentation.csproj|solutionrelative:src\\quanlynhansu.presentation\\controllers\\v1\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD5A920-8A7D-4666-9FE5-A2B413B43354}|src\\QuanLyNhanSu.Application\\QuanLyNhanSu.Application.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.application\\usercases\\v1\\queries\\employee\\getemployeepayrollqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD5A920-8A7D-4666-9FE5-A2B413B43354}|src\\QuanLyNhanSu.Application\\QuanLyNhanSu.Application.csproj|solutionrelative:src\\quanlynhansu.application\\usercases\\v1\\queries\\employee\\getemployeepayrollqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD5A920-8A7D-4666-9FE5-A2B413B43354}|src\\QuanLyNhanSu.Application\\QuanLyNhanSu.Application.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.application\\mapper\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD5A920-8A7D-4666-9FE5-A2B413B43354}|src\\QuanLyNhanSu.Application\\QuanLyNhanSu.Application.csproj|solutionrelative:src\\quanlynhansu.application\\mapper\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE61CFFD-86B2-467F-811E-19119EE5A4D3}|src\\QuanLyNhanSu.Contract\\QuanLyNhanSu.Contract.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.contract\\service\\v1\\employee\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE61CFFD-86B2-467F-811E-19119EE5A4D3}|src\\QuanLyNhanSu.Contract\\QuanLyNhanSu.Contract.csproj|solutionrelative:src\\quanlynhansu.contract\\service\\v1\\employee\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F9E571-BC9A-428B-A925-DC02E2859EF6}|src\\QuanLyNhanSu.Domain\\QuanLyNhanSu.Domain.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F9E571-BC9A-428B-A925-DC02E2859EF6}|src\\QuanLyNhanSu.Domain\\QuanLyNhanSu.Domain.csproj|solutionrelative:src\\quanlynhansu.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE61CFFD-86B2-467F-811E-19119EE5A4D3}|src\\QuanLyNhanSu.Contract\\QuanLyNhanSu.Contract.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.contract\\service\\v1\\payroll\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE61CFFD-86B2-467F-811E-19119EE5A4D3}|src\\QuanLyNhanSu.Contract\\QuanLyNhanSu.Contract.csproj|solutionrelative:src\\quanlynhansu.contract\\service\\v1\\payroll\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F9E571-BC9A-428B-A925-DC02E2859EF6}|src\\QuanLyNhanSu.Domain\\QuanLyNhanSu.Domain.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.domain\\abstractions\\repositories\\employee\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F9E571-BC9A-428B-A925-DC02E2859EF6}|src\\QuanLyNhanSu.Domain\\QuanLyNhanSu.Domain.csproj|solutionrelative:src\\quanlynhansu.domain\\abstractions\\repositories\\employee\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE61CFFD-86B2-467F-811E-19119EE5A4D3}|src\\QuanLyNhanSu.Contract\\QuanLyNhanSu.Contract.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.contract\\service\\v1\\salary\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE61CFFD-86B2-467F-811E-19119EE5A4D3}|src\\QuanLyNhanSu.Contract\\QuanLyNhanSu.Contract.csproj|solutionrelative:src\\quanlynhansu.contract\\service\\v1\\salary\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6B324C-A924-47A8-98A0-853040582971}|src\\QuanLyNhanSu.Persistence\\QuanLyNhanSu.Persistence.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.persistence\\repositories\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6B324C-A924-47A8-98A0-853040582971}|src\\QuanLyNhanSu.Persistence\\QuanLyNhanSu.Persistence.csproj|solutionrelative:src\\quanlynhansu.persistence\\repositories\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE61CFFD-86B2-467F-811E-19119EE5A4D3}|src\\QuanLyNhanSu.Contract\\QuanLyNhanSu.Contract.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.contract\\service\\v1\\employee\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE61CFFD-86B2-467F-811E-19119EE5A4D3}|src\\QuanLyNhanSu.Contract\\QuanLyNhanSu.Contract.csproj|solutionrelative:src\\quanlynhansu.contract\\service\\v1\\employee\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F9E571-BC9A-428B-A925-DC02E2859EF6}|src\\QuanLyNhanSu.Domain\\QuanLyNhanSu.Domain.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.domain\\entities\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F9E571-BC9A-428B-A925-DC02E2859EF6}|src\\QuanLyNhanSu.Domain\\QuanLyNhanSu.Domain.csproj|solutionrelative:src\\quanlynhansu.domain\\entities\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD5A920-8A7D-4666-9FE5-A2B413B43354}|src\\QuanLyNhanSu.Application\\QuanLyNhanSu.Application.csproj|c:\\users\\phamt\\desktop\\quanlynhansu_be\\quanlynhansu_be\\src\\quanlynhansu.application\\usercases\\v1\\commands\\attendance\\checkoutattendancecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD5A920-8A7D-4666-9FE5-A2B413B43354}|src\\QuanLyNhanSu.Application\\QuanLyNhanSu.Application.csproj|solutionrelative:src\\quanlynhansu.application\\usercases\\v1\\commands\\attendance\\checkoutattendancecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Presentation\\Controllers\\V1\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Presentation\\Controllers\\V1\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Presentation\\Controllers\\V1\\EmployeeController.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Presentation\\Controllers\\V1\\EmployeeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:09:02.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Contract\\Service\\V1\\PayRoll\\Response.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Contract\\Service\\V1\\PayRoll\\Response.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Contract\\Service\\V1\\PayRoll\\Response.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Contract\\Service\\V1\\PayRoll\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:57:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Contract\\Service\\V1\\Salary\\Response.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Contract\\Service\\V1\\Salary\\Response.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Contract\\Service\\V1\\Salary\\Response.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Contract\\Service\\V1\\Salary\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:57:35.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Persistence\\Repositories\\Employee\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Persistence\\Repositories\\Employee\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Persistence\\Repositories\\Employee\\EmployeeRepository.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Persistence\\Repositories\\Employee\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:14:27.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Domain\\Abstractions\\Repositories\\Employee\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Domain\\Abstractions\\Repositories\\Employee\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Domain\\Abstractions\\Repositories\\Employee\\IEmployeeRepository.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Domain\\Abstractions\\Repositories\\Employee\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:11:49.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Domain\\Entities\\Employee.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwDAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:59:21.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetEmployeePayRollQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Application\\UserCases\\V1\\Queries\\Employee\\GetEmployeePayRollQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Application\\UserCases\\V1\\Queries\\Employee\\GetEmployeePayRollQueryHandler.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Application\\UserCases\\V1\\Queries\\Employee\\GetEmployeePayRollQueryHandler.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Application\\UserCases\\V1\\Queries\\Employee\\GetEmployeePayRollQueryHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:51:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Application\\Mapper\\EmployeeMapper.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Application\\Mapper\\EmployeeMapper.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Application\\Mapper\\EmployeeMapper.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Application\\Mapper\\EmployeeMapper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA6wCoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:35:56.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Contract\\Service\\V1\\Employee\\Response.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Contract\\Service\\V1\\Employee\\Response.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Contract\\Service\\V1\\Employee\\Response.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Contract\\Service\\V1\\Employee\\Response.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAywB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:01:39.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Contract\\Service\\V1\\Employee\\Query.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Contract\\Service\\V1\\Employee\\Query.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Contract\\Service\\V1\\Employee\\Query.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Contract\\Service\\V1\\Employee\\Query.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:14:20.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PayRoll.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Domain\\Entities\\PayRoll.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Domain\\Entities\\PayRoll.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Domain\\Entities\\PayRoll.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Domain\\Entities\\PayRoll.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIAxwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:01:31.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckOutAttendanceCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Application\\UserCases\\V1\\Commands\\Attendance\\CheckOutAttendanceCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\QuanLyNhanSu.Application\\UserCases\\V1\\Commands\\Attendance\\CheckOutAttendanceCommandHandler.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\quanlynhansu_BE\\QuanLyNhanSu_BE\\src\\QuanLyNhanSu.Application\\UserCases\\V1\\Commands\\Attendance\\CheckOutAttendanceCommandHandler.cs",
+              "RelativeToolTip": "src\\QuanLyNhanSu.Application\\UserCases\\V1\\Commands\\Attendance\\CheckOutAttendanceCommandHandler.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwGAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:45:07.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
