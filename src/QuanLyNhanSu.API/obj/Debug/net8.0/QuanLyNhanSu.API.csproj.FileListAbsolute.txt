@@ -1,0 +1,1305 @@
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.json
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.exe
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.deps.json
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.runtimeconfig.json
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfo.cs
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.QuanLyNhanSu.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.build.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\scopedcss\bundle\QuanLyNhanSu.API.styles.css
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNh.DC8C1A9F.Up2Date
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\refint\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.genruntimeconfig.cache
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\ref\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.sourcelink.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.Development.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.exe
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.deps.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.runtimeconfig.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\AutoMapper.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Core.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Castle.Core.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Humanizer.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.AssemblyReference.cache
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfoInputs.cache
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfo.cs
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.CoreCompileInputs.cache
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cs
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.sourcelink.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.QuanLyNhanSu.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.build.QuanLyNhanSu.API.props
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyNhanSu.API.props
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuanLyNhanSu.API.props
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\scopedcss\bundle\QuanLyNhanSu.API.styles.css
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNh.DC8C1A9F.Up2Date
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\refint\QuanLyNhanSu.API.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.genruntimeconfig.cache
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\ref\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.exe
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.deps.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.runtimeconfig.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfo.cs
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.sourcelink.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.QuanLyNhanSu.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.build.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\scopedcss\bundle\QuanLyNhanSu.API.styles.css
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNh.DC8C1A9F.Up2Date
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\refint\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.genruntimeconfig.cache
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\ref\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.exe
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.deps.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.runtimeconfig.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfo.cs
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.QuanLyNhanSu.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.build.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\scopedcss\bundle\QuanLyNhanSu.API.styles.css
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNh.DC8C1A9F.Up2Date
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\refint\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.genruntimeconfig.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\ref\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.sourcelink.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.Development.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.exe
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.deps.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.runtimeconfig.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\AutoMapper.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Core.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Castle.Core.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Humanizer.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.AssemblyReference.cache
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfoInputs.cache
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfo.cs
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.CoreCompileInputs.cache
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cs
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.sourcelink.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.QuanLyNhanSu.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.build.QuanLyNhanSu.API.props
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyNhanSu.API.props
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuanLyNhanSu.API.props
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\scopedcss\bundle\QuanLyNhanSu.API.styles.css
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNh.DC8C1A9F.Up2Date
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\refint\QuanLyNhanSu.API.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.genruntimeconfig.cache
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\ref\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.exe
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.deps.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.runtimeconfig.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfo.cs
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.QuanLyNhanSu.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.build.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuanLyNhanSu.API.props
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\scopedcss\bundle\QuanLyNhanSu.API.styles.css
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNh.DC8C1A9F.Up2Date
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\refint\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.genruntimeconfig.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\ref\QuanLyNhanSu.API.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.Development.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\appsettings.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.exe
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.deps.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.runtimeconfig.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.API.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\AutoMapper.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Core.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Azure.Identity.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Castle.Core.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Humanizer.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\MediatR.Contracts.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.CodeDom.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Memory.Data.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Infrastructure.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Presentation.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.AssemblyReference.cache
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfoInputs.cache
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.AssemblyInfo.cs
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.csproj.CoreCompileInputs.cache
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cs
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cache
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.sourcelink.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.build.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.development.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.QuanLyNhanSu.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.build.QuanLyNhanSu.API.props
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyNhanSu.API.props
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuanLyNhanSu.API.props
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\staticwebassets.pack.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\scopedcss\bundle\QuanLyNhanSu.API.styles.css
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNh.DC8C1A9F.Up2Date
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\refint\QuanLyNhanSu.API.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.genruntimeconfig.cache
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\ref\QuanLyNhanSu.API.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Hangfire.SqlServer.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\EPPlus.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.API\obj\Debug\net8.0\QuanLyNhanSu.API.sourcelink.json

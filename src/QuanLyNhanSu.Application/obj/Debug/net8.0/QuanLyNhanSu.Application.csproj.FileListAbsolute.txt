@@ -1,0 +1,140 @@
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.deps.json
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfo.cs
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNh.DFD9215E.Up2Date
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\refint\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\ref\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\QLNS1\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.sourcelink.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.deps.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.AssemblyReference.cache
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfoInputs.cache
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfo.cs
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.CoreCompileInputs.cache
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.sourcelink.json
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNh.DFD9215E.Up2Date
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\refint\QuanLyNhanSu.Application.dll
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.pdb
+D:\DoAnQuanLyNhanSu\New folder\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\ref\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.deps.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfo.cs
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.sourcelink.json
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNh.DFD9215E.Up2Date
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\refint\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\quanlynhansu\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\ref\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.deps.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfo.cs
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNh.DFD9215E.Up2Date
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\refint\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\ref\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.sourcelink.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.deps.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.AssemblyReference.cache
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfoInputs.cache
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfo.cs
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.CoreCompileInputs.cache
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.sourcelink.json
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNh.DFD9215E.Up2Date
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\refint\QuanLyNhanSu.Application.dll
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.pdb
+D:\DoAnQuanLyNhanSu\BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\ref\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.deps.json
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.AssemblyReference.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfo.cs
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNh.DFD9215E.Up2Date
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\refint\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.pdb
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\ref\QuanLyNhanSu.Application.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.deps.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Application.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Contract.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Domain.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\bin\Debug\net8.0\QuanLyNhanSu.Persistence.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.AssemblyReference.cache
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfoInputs.cache
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.AssemblyInfo.cs
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.csproj.CoreCompileInputs.cache
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.sourcelink.json
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNh.DFD9215E.Up2Date
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\refint\QuanLyNhanSu.Application.dll
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.pdb
+F:\QuanLyNhanSu\quanlynhansu_BE - Copy\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\ref\QuanLyNhanSu.Application.dll
+C:\Users\phamt\Desktop\quanlynhansu_BE\QuanLyNhanSu_BE\src\QuanLyNhanSu.Application\obj\Debug\net8.0\QuanLyNhanSu.Application.sourcelink.json
